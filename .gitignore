@@ -1,0 +1,30 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# Build related
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+android/.gradle/
+android/app/proguard-rules.pro
+android/app/debug.keystore
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IntelliJ related
+.idea/
+*.iml
+
+# Generated files
+*.log
+*.lock
